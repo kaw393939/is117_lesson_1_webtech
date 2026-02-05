@@ -34,6 +34,7 @@ is117first/
 Quick links
 - Start here (lesson index): [docs/lessons/00-start-here.md](docs/lessons/00-start-here.md)
 - Project homepage: [docs/index.html](docs/index.html)
+- Example finished site: https://kaw393939.github.io/is117_lesson_1_webtech/
 - macOS setup: [setup-macos.md](setup-macos.md)
 - Windows setup: [setup-windows.md](setup-windows.md)
 - WSL2 setup: [setup-wsl2.md](setup-wsl2.md)
