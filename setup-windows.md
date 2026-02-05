@@ -13,6 +13,9 @@ File/folder primer (30 seconds)
 - File = a single document (like `index.html`).
 - You will build the exact folder tree shown in the README.
 
+Linux tips (use these daily)
+- [docs/lessons/09-linux-tips.md](docs/lessons/09-linux-tips.md)
+
 Part 1 — Install WSL2 (Ubuntu)
 Follow Microsoft’s guide: https://learn.microsoft.com/windows/wsl/install
 

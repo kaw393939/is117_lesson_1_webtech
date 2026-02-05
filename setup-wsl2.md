@@ -13,6 +13,9 @@ File/folder primer (30 seconds)
 - File = a single document (like `index.html`).
 - You will build the exact folder tree shown in the README.
 
+Linux tips (use these daily)
+- [docs/lessons/09-linux-tips.md](docs/lessons/09-linux-tips.md)
+
 Important: SSH keys are separate
 - Keys you made on Windows do **not** carry into WSL2.
 - You will create a **new** SSH key inside WSL2 for GitHub.

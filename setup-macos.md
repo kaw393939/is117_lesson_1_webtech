@@ -11,6 +11,9 @@ File/folder primer (30 seconds)
 - File = a single document (like `index.html`).
 - You will build the exact folder tree shown in the README.
 
+Linux tips (useful even on macOS)
+- [docs/lessons/09-linux-tips.md](docs/lessons/09-linux-tips.md)
+
 Part 1 — Install what you need
 1) Install Homebrew (package manager):
 
